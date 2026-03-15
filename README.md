@@ -18,3 +18,6 @@ This project is a 3D tank battle game developed using Unity, inspired by the off
 ![issues](https://img.shields.io/github/issues/agneay/Tanks-Unity?style=for-the-badge)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
+
+## Game Trailer
+![](https://github.com/agneay/Tanks-Unity/blob/main/imgs/title.png)
